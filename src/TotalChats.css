@@ -1,0 +1,24 @@
+.totalChats
+{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px;
+	height: 70px;
+	border: 1px solid #0a0a0a
+}
+
+.content
+{
+	flex: 1;
+}
+
+.content >p
+{
+	color: lightgrey;
+}
+
+.totalChats >p
+{
+	color: grey;
+}

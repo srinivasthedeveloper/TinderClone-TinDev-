@@ -1,0 +1,17 @@
+.chatScreen
+{
+	position: relative;
+}
+
+.chatScreen_Messages
+{
+	display: flex;
+	align-items: center;
+	padding: 20px;
+}
+
+.chatScreen_Text
+{
+	margin-left: 10px;
+	background-color: grey;
+}
